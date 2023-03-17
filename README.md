@@ -1,2 +1,2 @@
-# Simplistic-Portfolio-Website
-Simplistic Portfolio Website with css and Javascript
+# Portfolio-Website-with-Typed-Js
+Portfolio using Typed Js and some CSS animations
